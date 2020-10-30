@@ -1,15 +1,30 @@
-#Uinty
-/Library/
-/Logs/
+#auto dir
+/.vs/
+/obj/
 /Packages/
-/ProjectSettings/
-/Temp/
 /UserSettings/
+/Temp/
+/Logs/
+/Library/
+/ProjectSettings/
 
-#vs
-*.sln
-.vs
+*/Debug/
+*/x86/
+*/x64/
 
-#Mine
+#my dir
 /Build/
+/Build_GL/
 
+#auto file
+*.sln
+*.csproj
+*.DS_Store
+
+*.vcxproj
+*.filters
+*.user
+
+
+#myfile
+*.zip
