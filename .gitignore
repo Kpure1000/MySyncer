@@ -1,10 +1,10 @@
 #Uinty
-/L[l]ibrary/
-/L[l]ogs/
-/P[p]ackages/
-/P[p]rijectSettings/
-/T[t]emp/
-/U[u]serSettings/
+/Library/
+/Logs/
+/Packages/
+/ProjectSettings/
+/Temp/
+/UserSettings/
 
 #vs
 *.sln
